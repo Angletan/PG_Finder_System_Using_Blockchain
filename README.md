@@ -1,6 +1,6 @@
 
 # PG_Finder_System_Using_Blockchain
-So this is the website with a stunning design, connected to the blockchain, meta mask pairing, interaction with smart contracts, sending Ethereum through the blockchain network. here Pg owner can add their Pg's in the Ethereum blockchain network and users can book a particular Pg by paying ethers as token fees through meta mask
+This is the website with a stunning design, connected to the blockchain, meta mask pairing, interaction with smart contracts, sending Ethereum through the blockchain network. here Pg owner can add their Pg's in the Ethereum blockchain network and users can book a particular Pg by paying ethers as token fees through meta mask
 
 #PG FINDER SYSTEM using blockchain
 
